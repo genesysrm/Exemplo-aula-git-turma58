@@ -2,7 +2,6 @@
 
 ## Mudando o layout do README
 
-Alunos
-Marta
-Joel
-Camila
+Eu gosto de muito de código.
+Amo Java
+Não gosto de Python
