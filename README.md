@@ -1,2 +1,8 @@
 # Exemplo-aula-git-turma58
-Testando criar arquivos
+
+## Mudando o layout do README
+
+Alunos
+Marta
+Joel
+Camila
